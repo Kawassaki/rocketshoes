@@ -1,4 +1,4 @@
-## Rocketshoes
+# Rocketshoes
 
 An e-commerce example using React and flux Architecture (Redux, Sagas and Actions)
 
